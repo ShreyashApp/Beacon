@@ -1,0 +1,19 @@
+INDEX VERSION 1.126+F:\programs\Beacon\.metadata\.plugins\org.eclipse.jdt.core
+2584461867.index
+2157853732.index
+177687093.index
+2815866859.index
+848856923.index
+2354919406.index
+1284074322.index
+1902094532.index
+1279502264.index
+1913764001.index
+2386372842.index
+1593829757.index
+3515282563.index
+1945609499.index
+3065416851.index
+863146841.index
+3969111289.index
+1180122060.index

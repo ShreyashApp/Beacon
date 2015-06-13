@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.facebook.android&apos; to &apos;beacon/gen&apos;&#x0D;&#x0A;- Original project: &apos;FacebookSDK&apos;&#x0D;&#x0A;- Destination element: &apos;beacon/gen&apos;&#x0D;&#x0A;- Original element: &apos;FacebookSDK/gen/com.facebook.android&apos;" description="Copy package" destination="=beacon/gen" element1="/gen&lt;com.facebook.android" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1415547641086" version="1.0"/>
+</session>

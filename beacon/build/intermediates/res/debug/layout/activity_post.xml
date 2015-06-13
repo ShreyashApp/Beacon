@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <TextView
+        android:id="@+id/character_count_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_alignRight="@+id/Post"
+        android:layout_alignTop="@+id/Post"
+        android:layout_marginTop="36dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/Posts"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="76dp"
+        android:text="Button" />
+
+    <EditText
+        android:id="@+id/Post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Posts"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp"
+        android:ems="10"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Post"
+        android:layout_alignLeft="@+id/Post"
+        android:layout_marginBottom="99dp"
+        android:text="Fix Location" />
+
+</RelativeLayout>
+<!-- From: file:/F:/programs/Beacon/beacon/res/layout/activity_post.xml -->
