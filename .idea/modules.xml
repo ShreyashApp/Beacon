@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/facebook-android-sdk-3.20.0/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook-android-sdk-3.20.0/facebook/facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/../facebook-android-sdk-3.20.0/facebook-android-sdk-3.20.0.iml" filepath="$PROJECT_DIR$/../facebook-android-sdk-3.20.0/facebook-android-sdk-3.20.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/../programs.iml" filepath="$PROJECT_DIR$/../programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample/sample.iml" filepath="$PROJECT_DIR$/../sample/sample.iml" />
     </modules>
   </component>
 </project>
